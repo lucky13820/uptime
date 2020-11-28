@@ -18,7 +18,7 @@ sites:
     url: https://search.ryanyao.xyz
   - name: tube
     url: https://tube.ryanyao.xyz
-    - name: Kingge
+  - name: Kingge
     url: https://www.kingge.com
 
 status-website:
