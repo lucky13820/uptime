@@ -4,16 +4,22 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Ryan Yao Design
+    url: https://ryanyao.design
+  - name: Ryan Yao Photos
+    url: https://ryanyao.photos
+  - name: Designer Slack Communnities
+    url: https://www.designerslack.community
+  - name: RSSHub
+    url: https://rsshub.ryanyao.xyz
+  - name: gram
+    url: https://gram.ryanyao.xyz
+  - name: Search
+    url: https://search.ryanyao.xyz
+  - name: tube
+    url: https://tube.ryanyao.xyz
+    - name: Kingge
+    url: https://www.kingge.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
