@@ -40,8 +40,9 @@ status-website:
   steps:
     -name: Notifications
       env: 
+        SUPER_SECRET: ${{ secrets.GH_PAT}}
         NOTIFICATION_TELEGRAM: true
-        NOTIFICATION_TELEGRAM_BOT_KEY: 1481327213:AAHW8e8XyNBQj1qJuyneyxbIdksAbmqVpIE
+        NOTIFICATION_TELEGRAM_BOT_KEY: ${{ secrets.TG_BOT}}
         NOTIFICATION_TELEGRAM_CHAT_ID: @ryandesign
 
 
