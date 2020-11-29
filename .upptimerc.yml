@@ -37,7 +37,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
   steps:
-    -name: Notifications
+    - name: Notifications
       env: 
         SUPER_SECRET: ${{ secrets.GH_PAT}}
         NOTIFICATION_TELEGRAM: true
