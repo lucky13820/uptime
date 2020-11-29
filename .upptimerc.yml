@@ -37,9 +37,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 env:
-  NOTIFICATION_TELEGRAM: true
+  NOTIFICATION_TELEGRAM: ${{ secrets.TRUE }}
   NOTIFICATION_TELEGRAM_BOT_KEY: ${{ secrets.TG_BOT }}
-  NOTIFICATION_TELEGRAM_CHAT_ID: @ryandesign
+  NOTIFICATION_TELEGRAM_CHAT_ID: ${{ secrets.TG_USER }}
 
 
 # Upptime also supports notifications, assigning issues, and more
