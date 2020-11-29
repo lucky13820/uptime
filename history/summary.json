@@ -28,7 +28,7 @@
     "url": "https://rsshub.ryanyao.xyz",
     "slug": "rss-hub",
     "status": "up",
-    "uptime": "84.73%",
+    "uptime": "95.84%",
     "time": 233
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://gram.ryanyao.xyz",
     "slug": "gram",
     "status": "up",
-    "uptime": "68.21%",
+    "uptime": "91.33%",
     "time": 330
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://search.ryanyao.xyz",
     "slug": "search",
     "status": "up",
-    "uptime": "85.02%",
+    "uptime": "95.91%",
     "time": 213
   },
   {
@@ -52,8 +52,16 @@
     "url": "https://tube.ryanyao.xyz",
     "slug": "tube",
     "status": "up",
-    "uptime": "85.17%",
+    "uptime": "95.96%",
     "time": 238
+  },
+  {
+    "name": "n8n",
+    "url": "https://n8n.ryanyao.xyz",
+    "slug": "n8n",
+    "status": "down",
+    "uptime": "16.50%",
+    "time": 237
   },
   {
     "name": "Kingge",
