@@ -18,6 +18,8 @@ sites:
     url: https://search.ryanyao.xyz
   - name: tube
     url: https://tube.ryanyao.xyz
+  - name: n8n
+    url: https://n8n.ryanyao.xyz
   - name: Kingge
     url: https://www.kingge.com
 
