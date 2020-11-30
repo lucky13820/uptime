@@ -37,15 +37,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 notifications:
-  - NOTIFICATION_TELEGRAM: true
+  NOTIFICATION_TELEGRAM: true
     env:
       NOTIFICATION_TELEGRAM_BOT_KEY: ${{ secrets.TG_BOT }}
       NOTIFICATION_TELEGRAM_CHAT_ID: ${{ secrets.TG_USER }}
-  - NOTIFICATION_SLACK: true
-    env:
-      NOTIFICATION_SLACK_WEBHOOK: true
-      NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.SLACK }}
- 
 
 
 
