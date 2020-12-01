@@ -5,7 +5,7 @@
     "slug": "ryan-yao-design",
     "status": "up",
     "uptime": "100.00%",
-    "time": 452
+    "time": 434
   },
   {
     "name": "Ryan Yao Photos",
@@ -13,7 +13,7 @@
     "slug": "ryan-yao-photos",
     "status": "up",
     "uptime": "100.00%",
-    "time": 399
+    "time": 360
   },
   {
     "name": "Designer Slack Communnities",
@@ -21,39 +21,39 @@
     "slug": "designer-slack-communnities",
     "status": "up",
     "uptime": "100.00%",
-    "time": 234
+    "time": 243
   },
   {
     "name": "RSSHub",
     "url": "https://rsshub.ryanyao.xyz",
     "slug": "rss-hub",
     "status": "up",
-    "uptime": "96.52%",
-    "time": 783
+    "uptime": "96.83%",
+    "time": 758
   },
   {
     "name": "gram",
     "url": "https://gram.ryanyao.xyz",
     "slug": "gram",
     "status": "up",
-    "uptime": "95.09%",
-    "time": 308
+    "uptime": "95.53%",
+    "time": 303
   },
   {
     "name": "Search",
     "url": "https://search.ryanyao.xyz",
     "slug": "search",
     "status": "up",
-    "uptime": "98.05%",
-    "time": 1552
+    "uptime": "98.22%",
+    "time": 1422
   },
   {
     "name": "tube",
     "url": "https://tube.ryanyao.xyz",
     "slug": "tube",
     "status": "up",
-    "uptime": "98.07%",
-    "time": 307
+    "uptime": "98.24%",
+    "time": 322
   },
   {
     "name": "n8n",
@@ -61,7 +61,7 @@
     "slug": "n8n",
     "status": "down",
     "uptime": "0.00%",
-    "time": 274
+    "time": 273
   },
   {
     "name": "Kingge",
@@ -69,6 +69,6 @@
     "slug": "kingge",
     "status": "up",
     "uptime": "100.00%",
-    "time": 383
+    "time": 378
   }
 ]
