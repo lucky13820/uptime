@@ -28,7 +28,7 @@
     "url": "https://rsshub.ryanyao.xyz",
     "slug": "rss-hub",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "time": 731
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://gram.ryanyao.xyz",
     "slug": "gram",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.07%",
     "time": 302
   },
   {
@@ -44,16 +44,16 @@
     "url": "https://search.ryanyao.xyz",
     "slug": "search",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "time": 1316
   },
   {
     "name": "tube",
     "url": "https://tube.ryanyao.xyz",
     "slug": "tube",
-    "status": "down",
-    "uptime": "98.83%",
-    "time": 300
+    "status": "up",
+    "uptime": "98.26%",
+    "time": 308
   },
   {
     "name": "n8n",
