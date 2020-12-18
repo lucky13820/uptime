@@ -4,19 +4,19 @@
     "url": "https://ryanyao.design",
     "icon": "https://favicons.githubusercontent.com/ryanyao.design",
     "slug": "ryan-yao-design",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 215,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 306,
+    "timeDay": 245,
     "timeWeek": 278,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2020-12-18": 0
+      "2020-12-18": 26
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2020-12-18": 1201,
+      "2020-12-18": 1227,
       "2020-12-17": 1440,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
