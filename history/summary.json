@@ -24,7 +24,7 @@
     "url": "https://ryanyao.photos",
     "icon": "https://favicons.githubusercontent.com/ryanyao.photos",
     "slug": "ryan-yao-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,7 +174,7 @@
     "timeMonth": 308,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2021-04-05": 37,
+      "2021-04-05": 1314,
       "2021-04-04": 1440,
       "2021-04-03": 1440,
       "2021-04-02": 1440,
