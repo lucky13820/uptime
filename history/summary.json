@@ -42,19 +42,19 @@
     "url": "https://www.designerslack.community",
     "icon": "https://favicons.githubusercontent.com/www.designerslack.community",
     "slug": "designer-slack-communnities",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 146,
-    "timeWeek": 154,
+    "timeDay": 164,
+    "timeWeek": 160,
     "timeMonth": 192,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 28
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeMonth": 260,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2021-06-08": 619,
+      "2021-06-08": 647,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
@@ -382,19 +382,19 @@
     "url": "https://www.kingge.com",
     "icon": "https://favicons.githubusercontent.com/www.kingge.com",
     "slug": "kingge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 326,
-    "timeWeek": 328,
-    "timeMonth": 351,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 382,
+    "timeDay": 223,
+    "timeWeek": 293,
+    "timeMonth": 341,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 28
     }
   }
 ]
