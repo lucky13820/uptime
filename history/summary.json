@@ -27,9 +27,9 @@
     "slug": "ryan-yao-photos",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 253,
     "timeDay": 163,
@@ -37,7 +37,6 @@
     "timeMonth": 215,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2021-09-27": 10,
       "2021-09-05": 22
     }
   },
@@ -48,9 +47,9 @@
     "slug": "designer-slack-communnities",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 272,
     "timeDay": 95,
@@ -58,7 +57,6 @@
     "timeMonth": 181,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2021-09-27": 9,
       "2021-06-08": 28
     }
   },
@@ -196,7 +194,8 @@
     "timeMonth": 293,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-09-27": 1423,
+      "2021-09-28": 26,
+      "2021-09-27": 1440,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
