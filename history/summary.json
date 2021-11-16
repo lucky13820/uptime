@@ -4,9 +4,9 @@
     "url": "https://ryanyao.design",
     "icon": "https://favicons.githubusercontent.com/ryanyao.design",
     "slug": "ryan-yao-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 280,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-09-05": 22,
       "2020-12-18": 26
     }
@@ -25,9 +26,9 @@
     "url": "https://ryanyao.photos",
     "icon": "https://favicons.githubusercontent.com/ryanyao.photos",
     "slug": "ryan-yao-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 257,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-10-15": 25,
       "2021-09-05": 22
     }
@@ -152,18 +154,18 @@
     "icon": "https://favicons.githubusercontent.com/tube.ryanyao.xyz",
     "slug": "tube",
     "status": "down",
-    "uptime": "86.98%",
+    "uptime": "86.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.98%",
+    "uptimeYear": "86.80%",
     "time": 458,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2021-11-16": 26,
+      "2021-11-16": 1077,
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
@@ -248,7 +250,7 @@
     "timeMonth": 250,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2021-11-16": 26,
+      "2021-11-16": 1077,
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
