@@ -53,9 +53,9 @@
     "url": "https://www.designerslack.community",
     "icon": "https://favicons.githubusercontent.com/www.designerslack.community",
     "slug": "designer-slack-communnities",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -65,6 +65,7 @@
     "timeMonth": 294,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2021-06-08": 28
     }
   },
@@ -152,7 +153,7 @@
     "icon": "https://favicons.githubusercontent.com/tube.ryanyao.xyz",
     "slug": "tube",
     "status": "up",
-    "uptime": "75.33%",
+    "uptime": "75.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -307,7 +308,7 @@
     "timeMonth": 237,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-03-02": 37,
+      "2022-03-02": 879,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
