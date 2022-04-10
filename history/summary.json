@@ -102,9 +102,9 @@
     "url": "https://gram.ryanyao.xyz",
     "icon": "https://favicons.githubusercontent.com/gram.ryanyao.xyz",
     "slug": "gram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -114,6 +114,7 @@
     "timeMonth": 244,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2022-04-10": 0,
       "2021-12-14": 37,
       "2021-12-12": 116,
       "2021-12-11": 91,
@@ -310,7 +311,7 @@
     "timeMonth": 234,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-04-10": 214,
+      "2022-04-10": 303,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
