@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 248,
-    "timeDay": 181,
-    "timeWeek": 223,
-    "timeMonth": 158,
-    "timeYear": 236,
+    "timeDay": 99,
+    "timeWeek": 161,
+    "timeMonth": 155,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2022-04-14": 39,
       "2022-03-07": 19,
@@ -38,10 +38,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 288,
-    "timeDay": 139,
-    "timeWeek": 308,
-    "timeMonth": 465,
+    "time": 287,
+    "timeDay": 124,
+    "timeWeek": 266,
+    "timeMonth": 460,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2022-04-19": 18,
@@ -66,9 +66,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 268,
-    "timeDay": 154,
-    "timeWeek": 238,
-    "timeMonth": 263,
+    "timeDay": 179,
+    "timeWeek": 209,
+    "timeMonth": 262,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2021-06-08": 28
@@ -85,10 +85,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 343,
-    "timeDay": 293,
-    "timeWeek": 291,
-    "timeMonth": 274,
+    "time": 342,
+    "timeDay": 295,
+    "timeWeek": 304,
+    "timeMonth": 279,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2021-12-14": 17,
@@ -96,8 +96,7 @@
       "2021-12-11": 108,
       "2021-11-06": 40,
       "2021-10-02": 60,
-      "2021-06-15": 18,
-      "2021-05-16": 152
+      "2021-06-15": 18
     }
   },
   {
@@ -112,17 +111,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 331,
-    "timeDay": 280,
-    "timeWeek": 262,
-    "timeMonth": 252,
+    "timeDay": 220,
+    "timeWeek": 268,
+    "timeMonth": 255,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2021-12-14": 37,
       "2021-12-12": 116,
       "2021-12-11": 91,
       "2021-11-06": 39,
-      "2021-10-02": 60,
-      "2021-05-16": 151
+      "2021-10-02": 60
     }
   },
   {
@@ -137,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 332,
-    "timeDay": 291,
-    "timeWeek": 283,
-    "timeMonth": 286,
+    "timeDay": 332,
+    "timeWeek": 302,
+    "timeMonth": 294,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2022-01-22": 28,
@@ -148,8 +146,7 @@
       "2021-12-12": 116,
       "2021-12-11": 69,
       "2021-11-06": 39,
-      "2021-10-02": 60,
-      "2021-05-16": 151
+      "2021-10-02": 60
     }
   },
   {
@@ -158,15 +155,15 @@
     "icon": "https://favicons.githubusercontent.com/tube.ryanyao.xyz",
     "slug": "tube",
     "status": "up",
-    "uptime": "78.76%",
+    "uptime": "78.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "69.13%",
     "time": 403,
-    "timeDay": 263,
-    "timeWeek": 241,
-    "timeMonth": 234,
+    "timeDay": 294,
+    "timeWeek": 258,
+    "timeMonth": 242,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2022-01-22": 275,
@@ -289,8 +286,7 @@
       "2021-08-01": 108,
       "2021-07-10": 22,
       "2021-07-05": 36,
-      "2021-07-03": 59,
-      "2021-05-16": 150
+      "2021-07-03": 59
     }
   },
   {
@@ -305,12 +301,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 274,
-    "timeDay": 237,
-    "timeWeek": 328,
-    "timeMonth": 258,
+    "timeDay": 280,
+    "timeWeek": 343,
+    "timeMonth": 263,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-05-15": 7,
+      "2022-05-16": 7,
+      "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -673,8 +670,7 @@
       "2021-05-20": 1440,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
-      "2021-05-17": 1440,
-      "2021-05-16": 1440
+      "2021-05-17": 1440
     }
   },
   {
@@ -689,9 +685,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 367,
-    "timeWeek": 383,
-    "timeMonth": 402,
+    "timeDay": 403,
+    "timeWeek": 352,
+    "timeMonth": 403,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2021-08-30": 18,
