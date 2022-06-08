@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 251,
-    "timeDay": 317,
-    "timeWeek": 250,
+    "timeDay": 78,
+    "timeWeek": 246,
     "timeMonth": 291,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 295,
-    "timeDay": 602,
-    "timeWeek": 407,
-    "timeMonth": 307,
-    "timeYear": 297,
+    "time": 294,
+    "timeDay": 56,
+    "timeWeek": 367,
+    "timeMonth": 297,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2022-04-19": 18,
       "2022-04-14": 15,
@@ -66,13 +66,12 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 657,
-    "timeWeek": 539,
-    "timeMonth": 366,
+    "timeDay": 206,
+    "timeWeek": 468,
+    "timeMonth": 369,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-05-16": 17,
-      "2021-06-08": 28
+      "2022-05-16": 17
     }
   },
   {
@@ -87,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 338,
-    "timeDay": 233,
-    "timeWeek": 277,
-    "timeMonth": 246,
+    "timeDay": 339,
+    "timeWeek": 294,
+    "timeMonth": 250,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2021-12-14": 17,
@@ -112,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 328,
-    "timeDay": 286,
-    "timeWeek": 276,
-    "timeMonth": 240,
-    "timeYear": 326,
+    "timeDay": 297,
+    "timeWeek": 302,
+    "timeMonth": 242,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2021-12-14": 37,
       "2021-12-12": 116,
@@ -136,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 327,
-    "timeDay": 303,
-    "timeWeek": 238,
-    "timeMonth": 247,
+    "timeDay": 373,
+    "timeWeek": 265,
+    "timeMonth": 249,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2022-01-22": 28,
@@ -156,18 +155,19 @@
     "icon": "https://favicons.githubusercontent.com/tube.ryanyao.xyz",
     "slug": "tube",
     "status": "down",
-    "uptime": "75.71%",
+    "uptime": "75.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.24%",
-    "uptimeYear": "63.18%",
+    "uptimeMonth": "24.94%",
+    "uptimeYear": "62.90%",
     "time": 399,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 240,
+    "timeMonth": 248,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2022-06-07": 5,
+      "2022-06-08": 8,
+      "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
@@ -325,12 +325,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 268,
-    "timeDay": 215,
-    "timeWeek": 210,
-    "timeMonth": 218,
+    "timeDay": 282,
+    "timeWeek": 233,
+    "timeMonth": 222,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2022-06-07": 5,
+      "2022-06-08": 8,
+      "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
@@ -693,8 +694,7 @@
       "2021-06-12": 1440,
       "2021-06-11": 1440,
       "2021-06-10": 1440,
-      "2021-06-09": 1440,
-      "2021-06-08": 1440
+      "2021-06-09": 1440
     }
   },
   {
@@ -709,13 +709,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 530,
-    "timeWeek": 452,
-    "timeMonth": 417,
+    "timeDay": 326,
+    "timeWeek": 439,
+    "timeMonth": 402,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2021-08-30": 18,
-      "2021-06-08": 28
+      "2021-08-30": 18
     }
   }
 ]
