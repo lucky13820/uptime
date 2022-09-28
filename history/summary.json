@@ -62,18 +62,19 @@
     "url": "https://www.designerslack.community",
     "icon": "https://favicons.githubusercontent.com/www.designerslack.community",
     "slug": "designer-slack-communnities",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 328,
+    "time": 329,
     "timeDay": 329,
     "timeWeek": 399,
     "timeMonth": 384,
     "timeYear": 321,
     "dailyMinutesDown": {
+      "2022-09-28": 0,
       "2022-07-31": 22,
       "2022-05-16": 17
     }
@@ -180,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-09-28": 13,
+      "2022-09-28": 21,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
@@ -449,7 +450,7 @@
     "timeMonth": 253,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2022-09-28": 13,
+      "2022-09-28": 21,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
