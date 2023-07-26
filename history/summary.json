@@ -4,7 +4,7 @@
     "url": "https://ryanyao.design",
     "icon": "https://icons.duckduckgo.com/ip3/ryanyao.design.ico",
     "slug": "ryan-yao-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
@@ -103,7 +103,7 @@
     "timeMonth": 211,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-07-26": 666,
+      "2023-07-26": 675,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-26": 666,
+      "2023-07-26": 675,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
