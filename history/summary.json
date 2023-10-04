@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 400,
-    "timeDay": 379,
-    "timeWeek": 154,
-    "timeMonth": 380,
+    "timeDay": 40,
+    "timeWeek": 128,
+    "timeMonth": 375,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2023-07-26": 16,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 502,
-    "timeDay": 211,
-    "timeWeek": 364,
-    "timeMonth": 380,
+    "timeDay": 147,
+    "timeWeek": 274,
+    "timeMonth": 366,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2022-10-14": 16
@@ -47,18 +47,16 @@
     "slug": "designer-slack-communnities",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 452,
-    "timeWeek": 320,
+    "timeDay": 365,
+    "timeWeek": 327,
     "timeMonth": 441,
-    "timeYear": 402,
-    "dailyMinutesDown": {
-      "2023-10-03": 8
-    }
+    "timeYear": 401,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RSSHub",
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 308,
-    "timeDay": 294,
-    "timeWeek": 249,
-    "timeMonth": 972,
+    "timeDay": 308,
+    "timeWeek": 251,
+    "timeMonth": 974,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-04-13": 69,
@@ -87,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gram.ryanyao.xyz.ico",
     "slug": "gram",
     "status": "down",
-    "uptime": "66.41%",
+    "uptime": "66.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.62%",
+    "uptimeYear": "4.45%",
     "time": 246,
-    "timeDay": 278,
-    "timeWeek": 237,
-    "timeMonth": 194,
+    "timeDay": 267,
+    "timeWeek": 233,
+    "timeMonth": 196,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-10-03": 521,
+      "2023-10-04": 5,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -461,9 +460,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 258,
-    "timeDay": 272,
-    "timeWeek": 245,
-    "timeMonth": 198,
+    "timeDay": 222,
+    "timeWeek": 238,
+    "timeMonth": 196,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2023-07-28": 69,
@@ -479,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tube.ryanyao.xyz.ico",
     "slug": "tube",
     "status": "down",
-    "uptime": "40.47%",
+    "uptime": "40.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -490,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 521,
+      "2023-10-04": 5,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -853,8 +853,7 @@
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440
+      "2022-10-05": 1440
     }
   },
   {
@@ -863,16 +862,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ryanyao.xyz.ico",
     "slug": "n8n",
     "status": "up",
-    "uptime": "33.54%",
+    "uptime": "33.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.35%",
+    "uptimeYear": "95.52%",
     "time": 218,
-    "timeDay": 259,
-    "timeWeek": 223,
+    "timeDay": 265,
+    "timeWeek": 230,
     "timeMonth": 187,
-    "timeYear": 215,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2023-06-01": 71,
       "2023-04-13": 57,
@@ -892,8 +891,7 @@
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440
+      "2022-10-05": 1440
     }
   },
   {
@@ -902,18 +900,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kingge.com.ico",
     "slug": "kingge",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 437,
-    "timeWeek": 392,
+    "timeDay": 448,
+    "timeWeek": 397,
     "timeMonth": 426,
-    "timeYear": 426,
-    "dailyMinutesDown": {
-      "2023-10-03": 7
-    }
+    "timeYear": 424,
+    "dailyMinutesDown": {}
   }
 ]
