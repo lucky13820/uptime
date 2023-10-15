@@ -43,19 +43,19 @@
     "url": "https://www.designerslack.community",
     "icon": "https://icons.duckduckgo.com/ip3/www.designerslack.community.ico",
     "slug": "designer-slack-communnities",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 320,
-    "timeWeek": 405,
-    "timeMonth": 447,
+    "timeDay": 357,
+    "timeWeek": 414,
+    "timeMonth": 449,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-10-15": 0
+      "2023-10-15": 11
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 201,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-10-15": 1094,
+      "2023-10-15": 1104,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -500,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-15": 1094,
+      "2023-10-15": 1104,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -899,19 +899,19 @@
     "url": "https://www.kingge.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kingge.com.ico",
     "slug": "kingge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 382,
-    "timeWeek": 391,
-    "timeMonth": 408,
-    "timeYear": 423,
+    "time": 430,
+    "timeDay": 440,
+    "timeWeek": 417,
+    "timeMonth": 415,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-10-15": 0
+      "2023-10-15": 11
     }
   }
 ]
