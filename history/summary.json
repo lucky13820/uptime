@@ -4,9 +4,9 @@
     "url": "https://ryanyao.design",
     "icon": "https://icons.duckduckgo.com/ip3/ryanyao.design.ico",
     "slug": "ryan-yao-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 299,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-07-26": 16
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://ryanyao.photos",
     "icon": "https://icons.duckduckgo.com/ip3/ryanyao.photos.ico",
     "slug": "ryan-yao-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
+    "time": 466,
     "timeDay": 394,
     "timeWeek": 316,
     "timeMonth": 344,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Designer Slack Communnities",
@@ -101,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-03-16": 5,
+      "2024-03-16": 231,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -506,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tube.ryanyao.xyz.ico",
     "slug": "tube",
     "status": "down",
-    "uptime": "34.93%",
+    "uptime": "34.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -517,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 5,
+      "2024-03-16": 231,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -890,7 +893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ryanyao.xyz.ico",
     "slug": "n8n",
     "status": "up",
-    "uptime": "42.16%",
+    "uptime": "42.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
