@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 329,
-    "timeDay": 53,
-    "timeWeek": 217,
-    "timeMonth": 253,
-    "timeYear": 307,
+    "timeDay": 92,
+    "timeWeek": 206,
+    "timeMonth": 251,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2023-07-26": 16
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 42,
-    "timeWeek": 360,
-    "timeMonth": 358,
+    "time": 445,
+    "timeDay": 225,
+    "timeWeek": 364,
+    "timeMonth": 351,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2024-03-16": 17
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 75,
-    "timeWeek": 315,
-    "timeMonth": 403,
-    "timeYear": 387,
+    "time": 391,
+    "timeDay": 235,
+    "timeWeek": 314,
+    "timeMonth": 396,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2023-10-16": 21
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.41%",
-    "time": 295,
-    "timeDay": 228,
-    "timeWeek": 164,
-    "timeMonth": 311,
-    "timeYear": 315,
+    "time": 294,
+    "timeDay": 47,
+    "timeWeek": 144,
+    "timeMonth": 305,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2023-12-18": 25,
       "2023-12-17": 1440,
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gram.ryanyao.xyz.ico",
     "slug": "gram",
     "status": "down",
-    "uptime": "56.53%",
+    "uptime": "56.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -104,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-04-02": 6,
+      "2024-04-03": 6,
+      "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -467,8 +468,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -482,10 +482,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
-    "time": 225,
-    "timeDay": 216,
-    "timeWeek": 165,
-    "timeMonth": 167,
+    "time": 224,
+    "timeDay": 62,
+    "timeWeek": 144,
+    "timeMonth": 164,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-01-06": 23,
@@ -509,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tube.ryanyao.xyz.ico",
     "slug": "tube",
     "status": "down",
-    "uptime": "34.44%",
+    "uptime": "34.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -520,7 +520,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-02": 6,
+      "2024-04-03": 6,
+      "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -883,8 +884,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -893,18 +893,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ryanyao.xyz.ico",
     "slug": "n8n",
     "status": "down",
-    "uptime": "42.37%",
+    "uptime": "42.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.11%",
-    "uptimeYear": "96.39%",
+    "uptimeMonth": "72.82%",
+    "uptimeYear": "96.12%",
     "time": 200,
-    "timeDay": 216,
-    "timeWeek": 146,
-    "timeMonth": 164,
+    "timeDay": 41,
+    "timeWeek": 127,
+    "timeMonth": 159,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-04-02": 6,
+      "2024-04-03": 6,
+      "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -936,9 +937,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 331,
-    "timeWeek": 409,
-    "timeMonth": 416,
+    "timeDay": 383,
+    "timeWeek": 398,
+    "timeMonth": 413,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2023-10-16": 21
