@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 306,
-    "timeDay": 86,
-    "timeWeek": 245,
-    "timeMonth": 203,
-    "timeYear": 298,
+    "time": 305,
+    "timeDay": 30,
+    "timeWeek": 223,
+    "timeMonth": 201,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2023-07-26": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 308,
-    "timeWeek": 364,
-    "timeMonth": 353,
-    "timeYear": 365,
+    "time": 420,
+    "timeDay": 321,
+    "timeWeek": 349,
+    "timeMonth": 356,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2024-03-16": 17
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 235,
-    "timeWeek": 394,
+    "timeDay": 237,
+    "timeWeek": 364,
     "timeMonth": 376,
-    "timeYear": 386,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2023-10-16": 21
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.42%",
     "time": 288,
-    "timeDay": 49,
-    "timeWeek": 129,
+    "timeDay": 51,
+    "timeWeek": 130,
     "timeMonth": 166,
-    "timeYear": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2024-04-09": 33,
       "2023-12-18": 25,
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gram.ryanyao.xyz.ico",
     "slug": "gram",
     "status": "down",
-    "uptime": "55.17%",
+    "uptime": "55.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -104,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-05-02": 6,
+      "2024-05-03": 7,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -467,8 +468,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
@@ -483,10 +483,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.36%",
     "time": 208,
-    "timeDay": 59,
-    "timeWeek": 113,
+    "timeDay": 56,
+    "timeWeek": 112,
     "timeMonth": 162,
-    "timeYear": 201,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2024-04-09": 33,
       "2024-01-06": 23,
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tube.ryanyao.xyz.ico",
     "slug": "tube",
     "status": "down",
-    "uptime": "33.61%",
+    "uptime": "33.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -519,7 +519,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-02": 6,
+      "2024-05-03": 7,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -882,8 +883,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
@@ -892,18 +892,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ryanyao.xyz.ico",
     "slug": "n8n",
     "status": "down",
-    "uptime": "41.35%",
+    "uptime": "41.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.18%",
+    "uptimeYear": "87.91%",
     "time": 209,
-    "timeDay": 40,
-    "timeWeek": 100,
+    "timeDay": 45,
+    "timeWeek": 101,
     "timeMonth": 401,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-05-02": 6,
+      "2024-05-03": 7,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -964,9 +965,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 399,
-    "timeWeek": 419,
-    "timeMonth": 427,
+    "timeDay": 367,
+    "timeWeek": 418,
+    "timeMonth": 426,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2023-10-16": 21
