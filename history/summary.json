@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 167,
-    "timeWeek": 211,
-    "timeMonth": 213,
-    "timeYear": 296,
+    "timeDay": 113,
+    "timeWeek": 219,
+    "timeMonth": 214,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2023-07-26": 16
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 202,
-    "timeWeek": 226,
-    "timeMonth": 337,
-    "timeYear": 362,
+    "timeDay": 311,
+    "timeWeek": 257,
+    "timeMonth": 335,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2024-03-16": 17
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 496,
-    "timeWeek": 233,
-    "timeMonth": 379,
-    "timeYear": 382,
+    "time": 394,
+    "timeDay": 240,
+    "timeWeek": 248,
+    "timeMonth": 373,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2023-10-16": 21
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
     "time": 289,
-    "timeDay": 268,
-    "timeWeek": 299,
-    "timeMonth": 187,
-    "timeYear": 311,
+    "timeDay": 249,
+    "timeWeek": 306,
+    "timeMonth": 189,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2024-04-09": 33,
       "2023-12-18": 25,
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gram.ryanyao.xyz.ico",
     "slug": "gram",
     "status": "down",
-    "uptime": "54.56%",
+    "uptime": "54.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -104,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-05-16": 6,
+      "2024-05-17": 6,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -467,8 +468,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1440
+      "2023-05-19": 1440
     }
   },
   {
@@ -483,8 +483,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 207,
-    "timeDay": 204,
-    "timeWeek": 249,
+    "timeDay": 212,
+    "timeWeek": 250,
     "timeMonth": 167,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tube.ryanyao.xyz.ico",
     "slug": "tube",
     "status": "down",
-    "uptime": "33.24%",
+    "uptime": "33.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -519,7 +519,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-16": 6,
+      "2024-05-17": 6,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -882,8 +883,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1440
+      "2023-05-19": 1440
     }
   },
   {
@@ -892,18 +892,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.ryanyao.xyz.ico",
     "slug": "n8n",
     "status": "down",
-    "uptime": "40.90%",
+    "uptime": "40.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.35%",
+    "uptimeYear": "84.07%",
     "time": 209,
-    "timeDay": 279,
-    "timeWeek": 233,
-    "timeMonth": 150,
+    "timeDay": 289,
+    "timeWeek": 247,
+    "timeMonth": 153,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-05-16": 6,
+      "2024-05-17": 6,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -978,9 +979,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 414,
-    "timeWeek": 397,
-    "timeMonth": 420,
+    "timeDay": 348,
+    "timeWeek": 394,
+    "timeMonth": 419,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2023-10-16": 21
